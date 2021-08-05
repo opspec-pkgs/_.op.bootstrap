@@ -5,6 +5,11 @@ All notable changes will be documented in this file in accordance with
 
 ## \[Unreleased]
 
+## \[4.0.1] - 2021-08-05
+
+### Fixed
+- replace references to master with main
+
 ## \[4.0.0] - 2021-07-09
 
 ### Changed
