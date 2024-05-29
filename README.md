@@ -1,4 +1,4 @@
-[![Build Status](https://github.com/opspec-pkgs/_.op.bootstrap/workflows/build/badge.svg?branch=master)](https://github.com/opspec-pkgs/_.op.bootstrap/actions?query=workflow%3Abuild+branch%3Amaster)
+[![Build Status](https://github.com/opspec-pkgs/_.op.bootstrap/workflows/build/badge.svg?branch=main)](https://github.com/opspec-pkgs/_.op.bootstrap/actions?query=workflow%3Abuild+branch%3Amain)
 
 # Problem statement
 
@@ -17,20 +17,20 @@ includes:
 ## Visualize
 
 ```shell
-opctl ui github.com/opspec-pkgs/_.op.bootstrap#4.0.1
+opctl ui github.com/opspec-pkgs/_.op.bootstrap#4.1.0
 ```
 
 ## Run
 
 ```
-opctl run github.com/opspec-pkgs/_.op.bootstrap#4.0.1
+opctl run github.com/opspec-pkgs/_.op.bootstrap#4.1.0
 ```
 
 ## Compose
 
 ```yaml
 op:
-  ref: github.com/opspec-pkgs/_.op.bootstrap#4.0.1
+  ref: github.com/opspec-pkgs/_.op.bootstrap#4.1.0
   ## uncomment to override defaults
   # inputs:
   #   srcDir: .
@@ -55,4 +55,4 @@ and [tagged](https://git-scm.com/book/en/v2/Git-Basics-Tagging); see
 # Contributing
 
 see
-[project/CONTRIBUTING.md](https://github.com/opspec-pkgs/project/blob/master/CONTRIBUTING.md)
+[project/CONTRIBUTING.md](https://github.com/opspec-pkgs/project/blob/main/CONTRIBUTING.md)
