@@ -17,7 +17,7 @@ outputs:
   srcDir:
     dir:
       description: directory containing the ops source code
-version: 4.1.2
+version: 4.1.3
 run:
   serial:
   - op:

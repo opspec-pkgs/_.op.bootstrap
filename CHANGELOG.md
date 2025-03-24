@@ -5,6 +5,11 @@ All notable changes will be documented in this file in accordance with
 
 ## \[Unreleased]
 
+## \[4.1.3] - 2025-03-23
+
+### Changed
+- all generated ops now use `$(../rel-path)` reference syntax
+
 ## \[4.0.1] - 2021-08-05
 
 ### Fixed
